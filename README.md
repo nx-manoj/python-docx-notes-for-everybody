@@ -39,3 +39,4 @@ Manoj
 ---
 
 ⭐ Feel free to star this repository if you find it useful.
+![GitHub stars](https://img.shields.io/github/stars/nx-manoj/python-docx-notes-for-everybody)
