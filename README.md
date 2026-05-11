@@ -20,7 +20,6 @@ This repository is created for beginners who want easy-to-understand Python note
 ## 📂 Files
 
 - `Python_Basics_.docx` → Python beginner notes
-- click on raw file to download or you can see download button on the top right side box
 
 ## 🛠️ Technologies Used
 
@@ -31,6 +30,7 @@ This repository is created for beginners who want easy-to-understand Python note
 ## 📥 Download Notes
 
 [Download Python DOCX Notes](Python_Basics_.docx)
+- click on raw file to download or you can see download button on the top right side box
 
 ## 👨‍💻 Author
 
