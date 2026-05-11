@@ -27,6 +27,10 @@ This repository is created for beginners who want easy-to-understand Python note
 - Git
 - GitHub
 
+## 📥 Download Notes
+
+[Download Python DOCX Notes](Python_Basics_.docx)
+
 ## 👨‍💻 Author
 
 Manoj
